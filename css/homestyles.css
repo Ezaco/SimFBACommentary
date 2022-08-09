@@ -122,27 +122,6 @@ ul .dropdown-menu a:hover {
 	text-transform: uppercase;
 }
 
-.contain {
-  width: 50%;
-  padding-top: 100px;
-  margin-left: 25%;
-}
-
-.intro {
-  text-align: center;
-}
-
-.week {
-  padding-top: 25px;
-  margin-left: 25%;
-}
-
-.btn-week {
-	margin: 0;
-	position: absolute;
-	left: 50;
-}
-
 .btn-week a {
 	color: #fff;
 }
