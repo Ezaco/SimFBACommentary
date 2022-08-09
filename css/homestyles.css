@@ -137,10 +137,10 @@ ul .dropdown-menu a:hover {
   margin-left: 25%;
 }
 
-.btn-week {
+.btn-week a {
 	color: #fff;
 }
 
-.btn-week:hover {
+.btn-week:hover a {
 	color: #fff;
 }
