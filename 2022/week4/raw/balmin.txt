@@ -1,9 +1,9 @@
-<head><title>Baltimore vs. Minnesota</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">																																	
+<head><title>Baltimore vs. Minnesota Vikings</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">																																	
 <div class="welcome"> Welcome everybody to M&T Bank Stadium here in Baltimore, Maryland.<br />																																	
 It's great matchup today between the <strong> Baltimore Ravens </strong> and the <strong> Minnesota Vikings </strong>.<br />																																	
 We're getting under way here now, let's take it down to the field!<br />																																	
 Click here to <a href="javascript:history.back()">go back</a> at any time.</div>																																	
-<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Baltimore.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Minnesota.png"></div>																																	
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Baltimore.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Minnesota Vikings.png"></div>																																	
 <table style="margin:auto;width:90%;margin-bottom:75px"><thead>																																	
 <tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	BAL Score	</th>	<th>	MIN Score	</th>	</tr>	</thead>	<tbody>
 <tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	BAL	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAL	</td>	<td>	Kickoff	</td>	<td>	K Benjamin Ray kicks for 67 yards. Fielded 2 yards. deep in the endzone by RB Robert ThomasRB Robert Thomas returns the ball 24 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
