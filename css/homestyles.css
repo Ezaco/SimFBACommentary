@@ -143,4 +143,5 @@ ul .dropdown-menu a:hover {
 
 .btn-week:hover a {
 	color: #fff;
+	text-decoration: none;
 }
