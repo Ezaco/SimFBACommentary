@@ -136,3 +136,11 @@ ul .dropdown-menu a:hover {
   padding-top: 25px;
   margin-left: 25%;
 }
+
+.btn-week {
+	color: #fff;
+}
+
+.btn-week:hover {
+	color: #fff;
+}
