@@ -2,7 +2,7 @@
 <div class="welcome"> Welcome everybody to Williams-Brice Stadium here in Columbia, South Carolina.<br />																																	
 It's great matchup today between the <strong> University of South Carolina Gamecocks </strong> and the <strong> University of Tennessee Volunteers </strong>.<br />																																	
 We're getting under way here now, let's take it down to the field!</div>																																	
-<img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/South Carolina.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Tennessee.png">																																	
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/South Carolina.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Tennessee.png"></div>																																	
 <table style="margin:auto;width:90%"><thead>																																	
 <tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	SOCA Score	</th>	<th>	TENN Score	</th>	</tr>	</thead>	<tbody>
 <tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	SOCA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 SOCA	</td>	<td>	Kickoff	</td>	<td>	K Travin Quessenberry kicks for 68 yards. Fielded 3 yards. deep in the endzone by WR Alex HendersonWR Alex Henderson returns the ball 19 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
