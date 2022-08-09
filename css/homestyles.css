@@ -138,7 +138,9 @@ ul .dropdown-menu a:hover {
 }
 
 .btn-week {
-	margin: auto;
+	margin: 0;
+	position: absolute;
+	left: 50;
 }
 
 .btn-week a {
