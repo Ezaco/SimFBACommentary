@@ -122,11 +122,11 @@ ul .dropdown-menu a:hover {
 	text-transform: uppercase;
 }
 
-.btn-week a {
+a .btn-week {
 	color: #fff;
 }
 
-.btn-week a:hover {
+a:hover .btn-week {
 	color: #fff;
 	text-decoration: none;
 }
