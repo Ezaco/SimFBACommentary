@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">        																																	
+<head><title>South Carolina vs. Tennessee</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">
 <div class="welcome"> Welcome everybody to Williams-Brice Stadium here in Columbia, South Carolina.<br />																																	
 It's great matchup today between the <strong> University of South Carolina Gamecocks </strong> and the <strong> University of Tennessee Volunteers </strong>.<br />																																	
 We're getting under way here now, let's take it down to the field!</div>																																	
@@ -191,4 +191,4 @@ We're getting under way here now, let's take it down to the field!</div>
 <tr>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	</tr>		
 </tbody>	</table>																																
 																																	
-<div><p style="text-align:center">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by Zaxby's, the official fried chicken partner of college football.</div></p>																																	
+<div><p style="text-align:center;font-size:24pt">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by <strong>Zaxby's</strong>, the official fried chicken partner of college football.</div></p>																																	
