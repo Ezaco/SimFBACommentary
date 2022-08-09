@@ -192,4 +192,4 @@ We're getting under way here now, let's take it down to the field!</div>
 <tr>	<td>	4	</td>	<td>	0:5	</td>	<td>	MIZZ	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 MIZZ	</td>	<td>	Run	</td>	<td>	RB Ron Lucas carries for 0 yards. Tackled by ILB Yohan Moore.	</td>	<td>	27	</td>	<td>	20	</td>	</tr>		
 </tbody>	</table>																									​							
 																																	
-<div><p style="text-align:center>	Thank you for watching this presentation of SimFBA Commentaries. Brought to you by RC Cola; Royal Crown Cola... we are individuality.	</p></div>																															
+<div><p style="text-align:center;font-size:24pt">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by <strong>RC Cola</strong>; Royal Crown Cola... we are individuality.</div></p>																															
