@@ -111,6 +111,12 @@ body {
 }
 
 ul .dropdown-menu {
+	background-color: #222;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+ul .dropdown-menu a:hover {
 	background-color: #41495A;
 	color: #fff;
 	text-transform: uppercase;
