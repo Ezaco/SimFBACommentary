@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">        																																	
 <div class="welcome"> Welcome everybody to Memorial Stadium here in Columbia, Missouri.<br />																																	
-It's great matchup today between the <strong> University of Missouri Tigers </strong> and the <strong> Univserity of Kentucky Wildcats </strong>.<br />																																	
+It's great matchup today between the <strong> University of Missouri Tigers </strong> and the <strong> University of Kentucky Wildcats </strong>.<br />																																	
 We're getting under way here now, let's take it down to the field!</div>																																	
 <img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Missouri.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Kentucky.png">																																	
 <table style="margin:auto;width:90%"><thead>																																	
