@@ -12,8 +12,12 @@ table, th, td {
   padding-bottom: 25px;
 }
 
+.team-logos {
+  text-align: center;
+
 .home-logo {
-  margin-left: 33%;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 25px;
   margin-bottom: 25px;
   display: inline-block;
@@ -22,7 +26,8 @@ table, th, td {
 }
 
 .away-logo {
-  margin-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 25px;
   margin-bottom: 25px;
   display: inline-block;
