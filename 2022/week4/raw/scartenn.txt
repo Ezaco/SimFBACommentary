@@ -4,7 +4,7 @@ It's great matchup today between the <strong> University of South Carolina Gamec
 We're getting under way here now, let's take it down to the field!<br />																																	
 Click here to <a href="javascript:history.back()">go back</a> at any time.</div>																																	
 <div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/South Carolina.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Tennessee.png"></div>																																	
-<table style="margin:auto;width:90%;margin-bottom:25px"><thead>																																	
+<table style="margin:auto;width:90%;margin-bottom:75px"><thead>																																	
 <tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	SOCA Score	</th>	<th>	TENN Score	</th>	</tr>	</thead>	<tbody>
 <tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	SOCA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 SOCA	</td>	<td>	Kickoff	</td>	<td>	K Travin Quessenberry kicks for 68 yards. Fielded 3 yards. deep in the endzone by WR Alex HendersonWR Alex Henderson returns the ball 19 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	14:51	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	16 TENN	</td>	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -1 yard. Tackled by ILB Zane Stanley.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
