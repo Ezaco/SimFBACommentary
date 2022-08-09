@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">																																	
+<link rel="stylesheet" href="https://github.com/Ezaco/SimFBACommentary/css/gamestyles.css">																																	
 <div class="welcome"> Welcome everybody to Memorial Stadium here in Columbia, Missouri.<br />																																	
 It's great matchup today between the <strong> University of Missouri Tigers </strong> and the <strong> Univserity of Kentucky Wildcats </strong>.<br />																																	
 We're getting under way here now, let's take it down to the field!</div>																																	
