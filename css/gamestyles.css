@@ -11,3 +11,17 @@ table, th, td {
   padding-top: 25px;
   padding-bottom: 25px;
 }
+
+.home-logo {
+  margin-left: 33%;
+  display: block;
+  height: 150px;
+  width: auto;
+}
+
+.away-logo {
+  margin-left: 50px;
+  display: block;
+  height: 150px;
+  width: auto;
+}
