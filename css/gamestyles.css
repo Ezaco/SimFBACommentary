@@ -14,6 +14,8 @@ table, th, td {
 
 .home-logo {
   margin-left: 33%;
+  margin-top: 25px;
+  margin-bottom: 25px;
   display: block;
   height: 150px;
   width: auto;
@@ -21,6 +23,8 @@ table, th, td {
 
 .away-logo {
   margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   display: block;
   height: 150px;
   width: auto;
