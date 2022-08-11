@@ -8,7 +8,9 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 <table style="margin:auto;width:90%"><thead>																																	
 <tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	MIZZ Score	</th>	<th>	UKEN Score	</th>	</tr>	</thead>	<tbody>
 <tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	MIZZ	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 65 yards. Fielded at the goalline by RB Kelvin DupreeRB Kelvin Dupree returns the ball 25 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
-<tr>	<td>	1	</td>	<td>	14:48	</td>	<td>	UKEN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 UKEN	</td>	<td>	Run	</td>	<td>	RB Kelvin Dupree carries for -2 yards. Tackled by DT Caleb Suarez.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	14:48	</td>	<td>	UKEN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 UKEN	</td>	
+<td>	Run	</td>	
+<td>	RB Kelvin Dupree carries for -2 yards. Tackled by DT Caleb Suarez.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	14:11	</td>	<td>	UKEN	</td>	<td>	2	</td>	<td>	12	</td>	<td>	23 UKEN	</td>	<td>	Pass	</td>	<td>	QB Michael Oliveros incomplete. Intended for WR Logan Njoku.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	13:52	</td>	<td>	UKEN	</td>	<td>	3	</td>	<td>	12	</td>	<td>	23 UKEN	</td>	<td>	Pass	</td>	<td>	QB Michael Oliveros incomplete. Intended for RB Kelvin Dupree. PENALTY: Offensive Pass Interference RB Kelvin Dupree	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	13:29	</td>	<td>	UKEN	</td>	<td>	3	</td>	<td>	22	</td>	<td>	13 UKEN	</td>	<td>	Pass	</td>	<td>	QB Michael Oliveros complete to WR Brennan Dominguez for 9 yards. Tackled by ILB David Mejri.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
