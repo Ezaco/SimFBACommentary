@@ -63,7 +63,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Michael Oliveros complete to WR Matt Smith for 34 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	7:28	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 MIZZ	</td>
-	<td>	Extra Point	</td>	<td>	K Terry Sokoli's extra point attempt is <span class="good">GOOD</span>.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+	<td>	Extra Point	</td>	<td>	K Terry Sokoli's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	7:28	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 UKEN	</td>
 	<td>	Kickoff	</td>	<td>	K Terry Sokoli kicks for 55 yards. Fielded at the 10 yardline by WR Jakeem ErlinWR Jakeem Erlin returns the ball 48 yards. Tackled by RB Kelvin Dupree.	</td>	<td>	0	</td>	<td>	7	</td>	</tr>		
@@ -123,7 +123,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Michael Oliveros incomplete. Intended for WR Logan Njoku.	</td>	<td>	0	</td>	<td>	7	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	0:24	</td>	<td>	UKEN	</td>
 	<td>	4	</td>	<td>	8	</td>	<td>	8 MIZZ	</td>
-	<td>	Field Goal	</td>	<td>	K Terry Sokoli's 26 yard field goal attempt is <span class="good">GOOD</span>.	</td>	<td>	0	</td>	<td>	7	</td>	</tr>		
+	<td>	Field Goal	</td>	<td>	K Terry Sokoli's 26 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	7	</td>	</tr>		
 <tr>	<td>	1	</td>	<td>	0:20	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 UKEN	</td>
 	<td>	Kickoff	</td>	<td>	K Terry Sokoli kicks for 63 yards. Fielded at the 2 yardline by CB Zac McCutchenCB Zac McCutchen returns the ball 30 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	10	</td>	</tr>		
@@ -152,7 +152,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Run	</td>	<td>	RB Kelvin Dupree carries for 44 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	0	</td>	<td>	10	</td>	</tr>		
 <tr>	<td>	2	</td>	<td>	11:59	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 MIZZ	</td>
-	<td>	Extra Point	</td>	<td>	K Terry Sokoli's extra point attempt is <span class="good">GOOD</span>.	</td>	<td>	0	</td>	<td>	16	</td>	</tr>		
+	<td>	Extra Point	</td>	<td>	K Terry Sokoli's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	16	</td>	</tr>		
 <tr>	<td>	2	</td>	<td>	11:59	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 UKEN	</td>
 	<td>	Kickoff	</td>	<td>	K Terry Sokoli kicks for 69 yards. Fielded 4 yards. deep in the endzone by WR Jakeem ErlinWR Jakeem Erlin returns the ball 27 yards. Tackled by OLB Tony Belt.	</td>	<td>	0	</td>	<td>	17	</td>	</tr>		
@@ -206,7 +206,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Run	</td>	<td>	RB Garrett Johnson carries for 1 yard. Ran out of bounds.	</td>	<td>	0	</td>	<td>	17	</td>	</tr>		
 <tr>	<td>	2	</td>	<td>	4:54	</td>	<td>	MIZZ	</td>
 	<td>	4	</td>	<td>	8	</td>	<td>	27 UKEN	</td>
-	<td>	Field Goal	</td>	<td>	K Kendell Elliott's 45 yard field goal attempt is <span class="good">GOOD</span>.	</td>	<td>	0	</td>	<td>	17	</td>	</tr>		
+	<td>	Field Goal	</td>	<td>	K Kendell Elliott's 45 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	17	</td>	</tr>		
 <tr>	<td>	2	</td>	<td>	4:49	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>
 	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 63 yards. Fielded at the 2 yardline by RB Kelvin DupreeRB Kelvin Dupree returns the ball 21 yards. Tackled by DE Justin Anderson.	</td>	<td>	3	</td>	<td>	17	</td>	</tr>		
@@ -305,7 +305,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Michael Oliveros incomplete. Intended for WR Matt Smith.	</td>	<td>	3	</td>	<td>	17	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	10:47	</td>	<td>	UKEN	</td>
 	<td>	4	</td>	<td>	10	</td>	<td>	25 MIZZ	</td>
-	<td>	Field Goal	</td>	<td>	K Terry Sokoli's 43 yard field goal attempt is <span class="good">GOOD</span>.	</td>	<td>	3	</td>	<td>	17	</td>	</tr>		
+	<td>	Field Goal	</td>	<td>	K Terry Sokoli's 43 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	3	</td>	<td>	17	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	10:42	</td>	<td>	UKEN	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 UKEN	</td>
 	<td>	Kickoff	</td>	<td>	K Terry Sokoli kicks for 61 yards. Fielded at the 4 yardline by WR Jakeem ErlinWR Jakeem Erlin returns the ball 27 yards. Tackled by ILB Josh Smith.	</td>	<td>	3	</td>	<td>	20	</td>	</tr>		
@@ -326,7 +326,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Aaron Leamon complete to RB Ron Lucas for 21 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	3	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	8:50	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 UKEN	</td>
-	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="good">GOOD</span>.	</td>	<td>	9	</td>	<td>	20	</td>	</tr>		
+	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	9	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	8:50	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>
 	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 59 yards. Fielded at the 6 yardline by RB Kelvin DupreeRB Kelvin Dupree returns the ball 21 yards. Tackled by DE Brooks Rodriguez.	</td>	<td>	10	</td>	<td>	20	</td>	</tr>		
@@ -350,7 +350,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Run	</td>	<td>	RB Ron Lucas carries for 1 yard. Tackled by ILB Yohan Moore.	</td>	<td>	10	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	6:32	</td>	<td>	MIZZ	</td>
 	<td>	4	</td>	<td>	1	</td>	<td>	31 UKEN	</td>
-	<td>	Field Goal	</td>	<td>	K Kendell Elliott's 49 yard field goal attempt is <span class="good">GOOD</span>.	</td>	<td>	10	</td>	<td>	20	</td>	</tr>		
+	<td>	Field Goal	</td>	<td>	K Kendell Elliott's 49 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	10	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	6:27	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>
 	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 66 yards. Fielded 1 yard. deep in the endzone by RB Kelvin DupreeRB Kelvin Dupree returns the ball 20 yards. Ran out of bounds.	</td>	<td>	13	</td>	<td>	20	</td>	</tr>		
@@ -407,7 +407,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Aaron Leamon complete to TE Cory Johnson for 2 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	13	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	0:48	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 UKEN	</td>
-	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="good">GOOD</span>.	</td>	<td>	19	</td>	<td>	20	</td>	</tr>		
+	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	19	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	3	</td>	<td>	0:48	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>
 	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 65 yards. Fielded at the goalline by RB Kelvin DupreeRB Kelvin Dupree returns the ball 19 yards. Tackled by OLB J.P. Bracy.	</td>	<td>	20	</td>	<td>	20	</td>	</tr>		
@@ -464,7 +464,7 @@ Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
 	<td>	Pass	</td>	<td>	QB Aaron Leamon complete to WR Jakeem Erlin for 7 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	20	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	4	</td>	<td>	10:12	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 UKEN	</td>
-	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="good">GOOD</span>.	</td>	<td>	26	</td>	<td>	20	</td>	</tr>		
+	<td>	Extra Point	</td>	<td>	K Kendell Elliott's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	26	</td>	<td>	20	</td>	</tr>		
 <tr>	<td>	4	</td>	<td>	10:12	</td>	<td>	MIZZ	</td>
 	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 MIZZ	</td>
 	<td>	Kickoff	</td>	<td>	K Kendell Elliott kicks for 65 yards. Fielded at the goalline by RB Kelvin DupreeRB Kelvin Dupree returns the ball 22 yards. Tackled by CB Marquez Rodriguez.	</td>	<td>	27	</td>	<td>	20	</td>	</tr>		
