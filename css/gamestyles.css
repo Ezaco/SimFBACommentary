@@ -54,3 +54,9 @@ table, th, td {
   font-size: 14pt;
   color: #A90;
 }
+
+.interception {
+  font-weight: bold;
+  font-size: 14pt;
+  color: #CC0000;
+}
