@@ -1,0 +1,309 @@
+	<head><title>Tampa Bay vs. Washington Commanders</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">																																
+<div class="welcome"> Welcome everybody to Raymond James Stadium here in Tampa, Florida.<br />																																	
+It's great matchup today between the <strong> Tampa Bay Buccaneers </strong> and the <strong> Washington Commanders  </strong>.<br />																																	
+We're getting under way here now, let's take it down to the field!<br />																																	
+Click here to <a href="javascript:history.back()">go back</a> at any time.</div>																																	
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Tampa Bay.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Washington Commanders.png"></div>																																	
+<table style="margin:auto;width:90%;margin-bottom:75px"><thead>																																	
+<tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	TB Score	</th>	<th>	WAS Score	</th>	</tr>	</thead>	<tbody>
+<tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	TB	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TB	</td>
+	<td>	Kickoff	</td>	<td>	K Robert Sterley kicks for 55 yards. Fielded at the 10 yardline by WR Timothy BrownWR Timothy Brown returns the ball 21 yards. Tackled by SS Christopher Chapman.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	14:50	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	31 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 7 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	14:17	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	3	</td>	<td>	38 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 2 yards. Tackled by CB Luis Wong.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	13:35	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	1	</td>	<td>	40 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 2 yards. Tackled by DE Brian Yokum.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	13:16	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	42 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 2 yards. Tackled by OLB Ryan Aristilde.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	12:36	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	8	</td>	<td>	44 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 3 yards. Tackled by DT Matthew Zimmer.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	11:53	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	5	</td>	<td>	47 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 5 yards. Tackled by CB Andrzej Harris.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	11:36	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	48 TB	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 2 yards. Tackled by DE Randy Mccarthy.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	10:53	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	8	</td>	<td>	46 TB	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -3 yards. Tackled by DT Howard Phillips and OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	10:11	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	11	</td>	<td>	49 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 11 yards. Tackled by DE Randy Mccarthy. <span class="penalty">PENALTY</span>: False Start WR Christopher Richardson	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:48	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	16	</td>	<td>	46 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles incomplete. Thrown Away.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:25	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	16	</td>	<td>	46 WAS	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 48 yards. WR Trevor Herrera returns the ball 11 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:13	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	17 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:50	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	17 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 7 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:20	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	3	</td>	<td>	24 TB	</td>
+	<td>	Run	</td>	<td>	FB Donald Johnson carries for 9 yards. Tackled by SS Derick Dudley. <span class="penalty">PENALTY</span>: False Start OG William Chittum	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:2	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	8	</td>	<td>	19 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:44	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	8	</td>	<td>	19 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 63 yards. RB John Woodward returns the ball 9 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:30	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	27 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 2 yards. Tackled by DT Howard Phillips.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	6:53	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	8	</td>	<td>	29 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 3 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	6:25	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	5	</td>	<td>	32 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 1 yard. Tackled by OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	5:47	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	4	</td>	<td>	33 WAS	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 30 yards. WR Trevor Herrera returns the ball 9 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	5:33	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	46 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 6 yards. Tackled by DE James Wood.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	4:52	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	4	</td>	<td>	48 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 1 yard. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	4:25	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	3	</td>	<td>	47 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 1 yard. Tackled by DE Bryan Ludi.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	3:45	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	2	</td>	<td>	46 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 2 yards. Tackled by ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	3:26	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 1 yard. Tackled by DE Bryan Ludi.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	2:47	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	9	</td>	<td>	43 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 8 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	2:14	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	1	</td>	<td>	35 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 3 yards. Tackled by DE James Wood.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	1:57	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 10 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	1:38	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	22 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 9 yards. Tackled by OLB Pierre Smith.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	0:56	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	1	</td>	<td>	13 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 3 yards. Tackled by DE James Wood.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	0:39	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	10 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for -1 yard. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	15:00	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	11	</td>	<td>	11 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 5 yards. Tackled by ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	14:19	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	6	</td>	<td>	6 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn <span class="interception">INTERCEPTED</span> by DT James Henze returned to 0 yards from the LOS. intended for RB Max Smith.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	14:10	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	6 WAS	</td>
+	<td>	Run	</td>	<td>	FB Richard Senften carries for 5 yards. Tackled by SS Christopher Lowe.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	13:32	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	5	</td>	<td>	11 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 0 yards. Tackled by DT Howard Phillips.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	12:54	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	5	</td>	<td>	11 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 7 yards. Tackled by OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	12:37	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	18 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 8 yards. Tackled by CB Adam Ijalana.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	11:58	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	2	</td>	<td>	26 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 20 yards. Tackled by CB Andrzej Harris.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	11:40	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	46 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to TE Michael Katz for 43 yards. Tackled by CB Andrzej Harris.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	11:20	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	11 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 4 yards. Tackled by SS Christopher Lowe.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:43	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	6	</td>	<td>	7 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to FB Richard Senften for 2 yards. Tackled by OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:3	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	4	</td>	<td>	5 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 3 yards. Tackled by ILB David Stowell.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	9:23	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	1	</td>	<td>	2 TB	</td>
+	<td>	Field Goal	</td>	<td>	K Jeffrey Leon's 20 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	9:17	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 WAS	</td>
+	<td>	Kickoff	</td>	<td>	K Jeffrey Leon kicks for 64 yards. Fielded at the 1 yardline by WR Trevor HerreraWR Trevor Herrera returns the ball 28 yards. Tackled by ILB Jonathan Osborne.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	9:7	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	29 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 0 yards. Tackled by CB William Stevens.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	8:28	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	29 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE Michael Delucia for 8 yards. Tackled by CB Paul Clark.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	7:49	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	2	</td>	<td>	37 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE Michael Delucia for 4 yards. Tackled by SS Derick Dudley.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	7:31	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	41 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 0 yards. Tackled by ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	6:49	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	41 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to WR William Palm for 2 yards. Tackled by CB William Stevens.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	6:8	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	8	</td>	<td>	43 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	5:50	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	8	</td>	<td>	43 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 42 yards. RB John Woodward returns the ball 24 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	5:37	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	39 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 2 yards. Ran out of bounds. <span class="penalty">PENALTY</span>: Defensive Holding SS Christopher Lowe	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	5:15	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -7 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	4:43	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	17	</td>	<td>	37 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -4 yards. Tackled by DT Matthew Zimmer. <span class="penalty">PENALTY</span>: Offensive Holding OG Christopher Regala	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	4:24	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	27	</td>	<td>	27 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Christopher Richardson for 20 yards. Tackled by CB Andrzej Harris.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	3:43	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	7	</td>	<td>	47 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 1 yard. Tackled by DE Brian Yokum.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	3:4	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	6	</td>	<td>	48 WAS	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 40 yards. WR Trevor Herrera returns the ball 12 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:50	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	24 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:29	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	24 TB	</td>
+	<td>	Run	</td>	<td>	RB Harry Lewis carries for 10 yards. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:9	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	34 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE Michael Delucia for 7 yards. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	1:29	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	3	</td>	<td>	41 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 9 yards. Tackled by ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	1:8	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	50	</td>
+	<td>	Run	</td>	<td>	FB Donald Johnson carries for -6 yards. Tackled by DE Bryan Ludi.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	0:32	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	16	</td>	<td>	44 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to RB Harry Lewis for 6 yards. Tackled by CB Roger Swimmer.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	0:2	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	10	</td>	<td>	50	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 23 yards. Tackled by FS Wade Hires.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	15:00	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 WAS	</td>
+	<td>	Kickoff	</td>	<td>	K Jeffrey Leon kicks for 61 yards. Fielded at the 4 yardline by WR Trevor HerreraWR Trevor Herrera returns the ball 33 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:52	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	37 TB	</td>
+	<td>	Run	</td>	<td>	FB Donald Johnson carries for 6 yards. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:18	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	4	</td>	<td>	43 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 2 yards. Tackled by ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	13:46	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	2	</td>	<td>	45 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for -1 yard. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	13:10	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	3	</td>	<td>	44 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 59 yards. Touchback.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	13:00	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for -1 yard. Tackled by OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	12:24	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	11	</td>	<td>	19 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Christopher Richardson for 7 yards. Tackled by SS Christopher Lowe.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:51	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	4	</td>	<td>	26 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 4 yards. Tackled by DE Brian Yokum.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:34	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	30 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles scrambles for 1 yard. Tackled by ILB David Stowell.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:26	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	9	</td>	<td>	31 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 40 yards. Tackled by CB Luis Wong.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:6	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	29 TB	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -2 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:43	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	12	</td>	<td>	31 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 7 yards. Tackled by SS Christopher Lowe.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:9	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	5	</td>	<td>	24 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Christopher Richardson for 3 yards. Tackled by CB Jason Green.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:37	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	2	</td>	<td>	21 TB	</td>
+	<td>	Field Goal	</td>	<td>	K Jeffrey Leon's 39 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:32	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 WAS	</td>
+	<td>	Kickoff	</td>	<td>	K Jeffrey Leon kicks for 64 yards. Fielded at the 1 yardline by WR Trevor HerreraWR Trevor Herrera returns the ball 25 yards. Tackled by SS Derick Dudley.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:24	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	26 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 8 yards. Tackled by DE Bryan Ludi.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:49	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	2	</td>	<td>	34 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to WR Wil Carter for 3 yards. Tackled by SS Derick Dudley.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:26	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	37 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:22	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	37 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 8 yards. Tackled by FS Wade Hires.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:47	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	2	</td>	<td>	45 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:39	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	2	</td>	<td>	45 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 52 yards. WR Timothy Brown returns the ball 7 yards. Tackled by CB Adam Ijalana.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:26	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	10 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 74 yards. Tackled by ILB David Stowell.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:5	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	16 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 2 yards. Tackled by OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	6:29	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	8	</td>	<td>	14 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB John Woodward for 9 yards. Tackled by CB Luis Wong.	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	6:11	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	5	</td>	<td>	5 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 5 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	0	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:50	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 TB	</td>
+	<td>	Extra Point	</td>	<td>	K Jeffrey Leon's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:50	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 WAS	</td>
+	<td>	Kickoff	</td>	<td>	K Jeffrey Leon kicks for 65 yards. Fielded at the goalline by WR Trevor HerreraWR Trevor Herrera returns the ball 28 yards. Tackled by SS Jeffery Mcbrearty.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:40	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	28 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for -1 yard. Ran out of bounds.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:21	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	11	</td>	<td>	27 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 3 yards. Tackled by DT James Henze.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:48	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	8	</td>	<td>	30 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Thrown Away.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:44	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	8	</td>	<td>	30 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 56 yards. RB John Woodward returns the ball 10 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:36	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	24 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -5 yards. Tackled by DT Howard Phillips and OLB Alan Feehan.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:4	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	15	</td>	<td>	19 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -4 yards. Tackled by DT Matthew Zimmer.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	3:29	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	19	</td>	<td>	15 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 1 yard. Tackled by SS Jan Miller.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:56	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	18	</td>	<td>	16 WAS	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 44 yards. WR Glenn Gervais returns the ball 12 yards. Tackled by OLB Joseph Patchen.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:43	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	48 WAS	</td>
+	<td>	Run	</td>	<td>	RB Harry Lewis carries for -7 yards. Tackled by DT James Henze and ILB Mark Keesey.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:10	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	17	</td>	<td>	45 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to RB Max Smith for 4 yards. Tackled by CB Paul Clark.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	1:36	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	13	</td>	<td>	49 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE James Patty for 20 yards. Tackled by SS Derick Dudley.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	1:19	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	31 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 7 yards. Tackled by OLB Karl Rosania.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:46	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	3	</td>	<td>	24 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 6 yards. Tackled by DT James Henze.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:25	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	18 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for TE Michael Delucia.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:21	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	10	</td>	<td>	18 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE Michael Delucia for 6 yards. Tackled by ILB Patrick Cannady.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	15:00	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	4	</td>	<td>	12 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to TE James Patty for 7 yards. Tackled by CB William Stevens.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	14:42	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	5	</td>	<td>	5 WAS	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 3 yards. Tackled by DE Bryan Ludi.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	14:8	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	2	</td>	<td>	2 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for -2 yards. Tackled by DT James Henze.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:38	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	4	</td>	<td>	4 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for TE Michael Delucia.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:30	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	4	</td>	<td>	4 WAS	</td>
+	<td>	Field Goal	</td>	<td>	K Robert Sterley's 22 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:26	</td>	<td>	TB	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TB	</td>
+	<td>	Kickoff	</td>	<td>	K Robert Sterley kicks for 57 yards. Fielded at the 8 yardline by WR Timothy BrownWR Timothy Brown returns the ball 25 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:13	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	33 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 11 yards. Tackled by DT Matthew Zimmer.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:51	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 3 yards. Tackled by DE Randy Mccarthy.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:17	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	7	</td>	<td>	47 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -2 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:00	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	9	</td>	<td>	45 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 7 yards. Tackled by CB Luis Wong.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:25	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	2	</td>	<td>	48 TB	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 63 yards. Touchback.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:14	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 4 yards. Tackled by DE Bryan Ludi.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:39	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	6	</td>	<td>	24 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for 4 yards. Tackled by DT James Henze.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:3	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	2	</td>	<td>	28 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 3 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:40	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	31 TB	</td>
+	<td>	Run	</td>	<td>	FB Donald Johnson carries for -2 yards. Tackled by DT James Henze and ILB Mark Keesey.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:5	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	12	</td>	<td>	29 TB	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for 7 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	8:47	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	5	</td>	<td>	36 TB	</td>
+	<td>	Run	</td>	<td>	RB Max Smith carries for -2 yards. Tackled by DE Bryan Ludi.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	8:16	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	7	</td>	<td>	34 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 46 yards. RB John Woodward returns the ball 10 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	8:4	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	30 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for 1 yard. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:43	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	9	</td>	<td>	31 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles incomplete. Intended for WR Christopher Richardson.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:37	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	9	</td>	<td>	31 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 2 yards. Tackled by SS Christopher Lowe.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:1	</td>	<td>	WAS	</td>	<td>	4	</td>	<td>	7	</td>	<td>	33 WAS	</td>
+	<td>	Punt	</td>	<td>	P Curtis Anderson punts for 30 yards. WR Trevor Herrera returns the ball 15 yards. Tackled by CB Paul Clark.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:49	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	48 WAS	</td>
+	<td>	Run	</td>	<td>	QB Gregory Taphorn carries for -4 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:31	</td>	<td>	TB	</td>	<td>	2	</td>	<td>	14	</td>	<td>	48 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for WR William Palm.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:23	</td>	<td>	TB	</td>	<td>	3	</td>	<td>	14	</td>	<td>	48 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn incomplete. Intended for TE Michael Delucia.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:15	</td>	<td>	TB	</td>	<td>	4	</td>	<td>	14	</td>	<td>	48 TB	</td>
+	<td>	Punt	</td>	<td>	P Javier Sanchez punts for 46 yards. WR Timothy Brown returns the ball 16 yards. Tackled by SS Jan Miller.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:4	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	22 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 9 yards. Tackled by CB Luis Wong.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:32	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	1	</td>	<td>	31 WAS	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 6 yards. Tackled by DE Randy Mccarthy.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:13	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	37 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to RB Stanley Piper for 2 yards. Tackled by OLB Alan Feehan.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	4:39	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	8	</td>	<td>	39 WAS	</td>
+	<td>	Run	</td>	<td>	RB John Woodward carries for -2 yards. Tackled by DT Matthew Zimmer and OLB Ryan Aristilde.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	4:3	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	10	</td>	<td>	37 WAS	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to TE Michael Katz for 17 yards. Tackled by CB Luis Wong.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:43	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	46 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 6 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:23	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	4	</td>	<td>	40 TB	</td>
+	<td>	Run	</td>	<td>	FB Richard Senften carries for 8 yards. Tackled by DT Howard Phillips.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:4	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 11 yards. Tackled by SS Christopher Lowe. <span class="penalty">PENALTY</span>: Offensive Holding OG Jorge Ledezma	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	2:43	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	20	</td>	<td>	42 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 8 yards. Tackled by DE Brian Yokum.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	2:11	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	12	</td>	<td>	34 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for -2 yards. Tackled by SS Christopher Lowe.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	1:38	</td>	<td>	WAS	</td>	<td>	3	</td>	<td>	14	</td>	<td>	36 TB	</td>
+	<td>	Pass	</td>	<td>	QB Jan Miles complete to WR Tracey Borders for 34 yards. Tackled by CB Andrzej Harris.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	1:20	</td>	<td>	WAS	</td>	<td>	1	</td>	<td>	2	</td>	<td>	2 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 1 yard. Tackled by ILB David Stowell.	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:37	</td>	<td>	WAS	</td>	<td>	2	</td>	<td>	1	</td>	<td>	1 TB	</td>
+	<td>	Run	</td>	<td>	RB Stanley Piper carries for 1 yard. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	3	</td>	<td>	13	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:16	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 TB	</td>
+	<td>	Extra Point	</td>	<td>	K Jeffrey Leon's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	3	</td>	<td>	19	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:16	</td>	<td>	WAS	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 WAS	</td>
+	<td>	Kickoff	</td>	<td>	K Jeffrey Leon kicks for 59 yards. Fielded at the 6 yardline by WR Trevor HerreraWR Trevor Herrera returns the ball 19 yards. Ran out of bounds.	</td>	<td>	3	</td>	<td>	20	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:3	</td>	<td>	TB	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 TB	</td>
+	<td>	Pass	</td>	<td>	QB Gregory Taphorn complete to RB Harry Lewis for -1 yard. Tackled by OLB Pierre Smith.	</td>	<td>	3	</td>	<td>	20	</td>	</tr>		
+</tbody>	</table>																																
+																																	
+<div><p style="text-align:center;font-size:24pt;margin-bottom:25px">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by <strong>RC Cola</strong>; Royal Crown Cola... we are individuality.</div></p>																																	
