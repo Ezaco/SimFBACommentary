@@ -1,0 +1,405 @@
+	<head><title>Tennessee vs. Alabama</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">																																
+<div class="welcome"> Welcome everybody to Neyland Stadium here in Knoxville, Tennessee.<br />																																	
+It's great matchup today between the <strong> University of Tennessee Volunteers </strong> and the <strong> Alabama Crimson Tide </strong>.<br />																																	
+We're getting under way here now, let's take it down to the field!<br />																																	
+Click here to <a href="javascript:history.back()">go back</a> at any time.</div>																																	
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Tennessee.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Alabama.png"></div>																																	
+<table style="margin:auto;width:90%;margin-bottom:75px"><thead>																																	
+<tr>	<th>	Quarter	</th>	<th>	Time Remaining	</th>	<th>	Possession	</th>	<th>	Down	</th>	<th>	Distance	</th>	<th>	Line Of Scrimmage	</th>	<th>	Type of Play	</th>	<th>	Result	</th>	<th>	TENN Score	</th>	<th>	BAMA Score	</th>	</tr>	</thead>	<tbody>
+<tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 65 yards. Fielded at the goalline by CB Dashaun Ceciliani Touchback.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	15:00	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 1 yard. Tackled by ILB JT Adams. <span class="penalty">PENALTY</span>: Illegal Block OT Nathan Hungalu	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	14:42	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	23	</td>	<td>	12 BAMA	</td>
+	<td>	Run	</td>	<td>	FB Jordan Durr carries for 5 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	14:13	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	18	</td>	<td>	17 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 2 yards. Tackled by SS Zac Hill.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	13:38	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	16	</td>	<td>	19 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Paul Canha for 30 yards. Tackled by CB Zach Cabinda.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	13:17	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	49 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 11 yards. Tackled by FS Joe Solder.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	12:59	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	40 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Chris Williams.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	12:42	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	40 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Ryan Dickey for 20 yards. Tackled by FS Joe Solder.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	12:23	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 TENN	</td>
+	<td>	Run	</td>	<td>	FB Jordan Durr carries for 5 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	11:50	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	5	</td>	<td>	15 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 3 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	11:22	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	2	</td>	<td>	12 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Chris Williams.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	11:3	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	2	</td>	<td>	12 TENN	</td>
+	<td>	Field Goal	</td>	<td>	K John Gardner's 30 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	0	</td>	<td>	0	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	10:57	</td>	<td>	BAMA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAMA	</td>
+	<td>	Kickoff	</td>	<td>	K John Gardner kicks for 55 yards. Fielded at the 10 yardline by RB Aldrick YnoaRB Aldrick Ynoa returns the ball 23 yards. Tackled by OLB Gio Thayer.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	10:48	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	33 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 4 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	10:17	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	6	</td>	<td>	37 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for WR Matt Siri.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:58	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	6	</td>	<td>	37 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for TE Patty Murray.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:36	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	6	</td>	<td>	37 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 53 yards. WR Paul Canha returns the ball 11 yards. Ran out of bounds.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	9:28	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	21 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 2 yards. Tackled by OLB Montrezl Link.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:54	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	8	</td>	<td>	23 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Ben Williams for 11 yards. Tackled by ILB JT Adams.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:33	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	34 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 0 yards. Tackled by OLB Albert Rosales.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	8:00	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	34 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett <span class="interception">INTERCEPTED</span> by OLB Montrezl Link returned to -5 yards from the LOS. intended for RB Chris Williams.	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:50	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	29 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 29 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	0	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:33	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 BAMA	</td>
+	<td>	Extra Point	</td>	<td>	K Saeed Smith's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	6	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:33	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 57 yards. Fielded at the 8 yardline by WR Paul CanhaWR Paul Canha returns the ball 24 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	7:20	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Thrown Away.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	6:59	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	32 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 12 yards. Tackled by OLB Albert Rosales.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	6:40	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 4 yards. Tackled by OLB Albert Rosales.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	6:4	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	6	</td>	<td>	48 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 27 yards. Tackled by DT Steve Markkanen.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	5:44	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 1 yard. Tackled by ILB JT Adams.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	5:6	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	9	</td>	<td>	24 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 6 yards. Tackled by SS Zac Hill.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	4:28	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	3	</td>	<td>	18 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -3 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	4:00	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	21 TENN	</td>
+	<td>	Field Goal	</td>	<td>	K John Gardner's 39 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	7	</td>	<td>	3	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	3:56	</td>	<td>	BAMA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAMA	</td>
+	<td>	Kickoff	</td>	<td>	K John Gardner kicks for 55 yards. Fielded at the 10 yardline by WR Alex HendersonWR Alex Henderson returns the ball 22 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	3:45	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage is sacked by OLB Gio Thayer for -3 yards. .	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	3:24	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	13	</td>	<td>	29 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 4 yards. Tackled by OLB Gio Thayer.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	2:52	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	9	</td>	<td>	33 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for TE Patty Murray.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	2:33	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	9	</td>	<td>	33 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 57 yards. WR Paul Canha returns the ball 13 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	2:22	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	23 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for -2 yards. Tackled by ILB JT Adams.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	1:48	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	12	</td>	<td>	21 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Paul Canha for 22 yards. Tackled by CB Francis Horst.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	1:30	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	43 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -1 yard. Tackled by DT Steve Markkanen.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	0:57	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	11	</td>	<td>	42 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to TE David Dennard for 6 yards. Tackled by FS Joe Solder.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	1	</td>	<td>	0:19	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	5	</td>	<td>	48 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 4 yards. Tackled by ILB JT Adams.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	15:00	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	1	</td>	<td>	48 TENN	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 38 yards. RB Aldrick Ynoa returns the ball 10 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	14:52	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 9 yards. Tackled by DT Marcus Sirles.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	14:17	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	1	</td>	<td>	29 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -9 yards. Tackled by DT Marcus Sirles and ILB Weston Shackelford.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	13:42	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	10	</td>	<td>	20 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -2 yards. Tackled by OLB Gio Thayer and ILB Emanuel Rivera.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	13:8	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	12	</td>	<td>	18 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 72 yards. WR Paul Canha returns the ball 11 yards. Tackled by OLB Henry Andriese.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	12:58	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	21 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Paul Canha for 7 yards. Tackled by SS Zac Hill.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	12:26	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	3	</td>	<td>	28 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Paul Canha for 39 yards. Tackled by OLB Montrezl Link.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	12:8	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	33 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Ben Williams.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	11:45	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	33 TENN	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 6 yards. Tackled by OLB Montrezl Link.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	11:7	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	4	</td>	<td>	27 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Chris Williams.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:47	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	4	</td>	<td>	27 TENN	</td>
+	<td>	Field Goal	</td>	<td>	K John Gardner's 45 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	7	</td>	<td>	6	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:41	</td>	<td>	BAMA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAMA	</td>
+	<td>	Kickoff	</td>	<td>	K John Gardner kicks for 65 yards. Fielded at the goalline by RB Aldrick Ynoa Touchback.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:41	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 2 yards. Tackled by DE Nick Concepcion.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	10:4	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	8	</td>	<td>	27 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -2 yards. Tackled by OLB Gio Thayer. <span class="penalty">PENALTY</span>: Offsides DE Blake Kuechly	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	9:46	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	3	</td>	<td>	32 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage is sacked by DT Marcus Sirles for -9 yards. .	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	9:29	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	12	</td>	<td>	23 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to RB Aldrick Ynoa for 1 yard. Tackled by SS Johnny Wright.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	8:57	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	11	</td>	<td>	24 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 56 yards. WR Paul Canha returns the ball 9 yards. Tackled by SS Jawun Burfict.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	8:44	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	29 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 4 yards. Tackled by DE Ian Merritt.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	8:12	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	6	</td>	<td>	33 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 5 yards. Tackled by OLB Montrezl Link.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	7:36	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	1	</td>	<td>	38 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -1 yard. Tackled by DE Max Bradberry.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	7:00	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	2	</td>	<td>	37 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 55 yards. RB Aldrick Ynoa calls for a fair catch.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	6:51	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	8 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for WR Alex Henderson.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	6:33	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	8 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 7 yards. Tackled by DT Marcus Sirles.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	6:1	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	3	</td>	<td>	15 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to RB Aldrick Ynoa for 1 yard. Tackled by FS Trevon Pence.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	5:29	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	2	</td>	<td>	16 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 69 yards. CB Dashaun Ceciliani returns the ball 41 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	5:17	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 3 yards. Tackled by DT Steve Markkanen.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	4:40	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	7	</td>	<td>	41 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Thrown Away.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	4:17	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	7	</td>	<td>	41 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Chris Williams.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	3:59	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	7	</td>	<td>	41 TENN	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 48 yards. Touchback.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	3:46	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Alex Henderson for 22 yards. Tackled by CB Dashaun Ceciliani.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	3:25	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	42 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 6 yards. Tackled by ILB Emanuel Rivera.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:52	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	4	</td>	<td>	48 TENN	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 8 yards. Tackled by ILB Weston Shackelford.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:29	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -2 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	2:00	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	12	</td>	<td>	46 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Matt Siri for 10 yards. Tackled by FS Trevon Pence.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	1:26	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	2	</td>	<td>	36 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 2 yards. Tackled by DE Nick Concepcion.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	1:3	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	34 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for RB Aldrick Ynoa.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	0:58	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	34 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Kendrick Mateo for 1 yard. Tackled by SS Johnny Wright.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	0:36	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	9	</td>	<td>	33 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Matt Siri for 1 yard. Tackled by SS Johnny Wright.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	2	</td>	<td>	0:11	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	8	</td>	<td>	32 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 1 yard. Tackled by DT Marcus Sirles.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	15:00	</td>	<td>	BAMA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAMA	</td>
+	<td>	Kickoff	</td>	<td>	K John Gardner kicks for 66 yards. Fielded 1 yard. deep in the endzone by RB Aldrick YnoaRB Aldrick Ynoa returns the ball 33 yards. Ran out of bounds.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:51	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 TENN	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 9 yards. Tackled by DE Nick Concepcion.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:26	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	1	</td>	<td>	41 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to RB Joe Williams for 9 yards. Tackled by ILB Weston Shackelford.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:8	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	50	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for WR Matt Siri.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	14:1	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	50	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 7 yards. Tackled by ILB Emanuel Rivera.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	13:33	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	3	</td>	<td>	43 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 5 yards.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	13:12	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	38 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 1 yard. Tackled by CB Stephen Mahtook.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	12:44	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	9	</td>	<td>	37 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 0 yards. Tackled by DE Nick Concepcion and ILB Weston Shackelford.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	12:17	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	9	</td>	<td>	37 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Matt Siri for 6 yards. Tackled by CB Timmy Madero.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:49	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	3	</td>	<td>	31 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 42 yards. Touchback.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:35	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -3 yards. Tackled by ILB JT Adams.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	11:10	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	13	</td>	<td>	17 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 7 yards. Tackled by DT Jason Marte.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:47	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	6	</td>	<td>	24 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Ben Williams.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:39	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	24 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 61 yards. WR Alex Henderson calls for a fair catch.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:28	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	15 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Matt Siri for 19 yards. Tackled by CB Dashaun Ceciliani.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	10:11	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	34 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Alex Henderson for 40 yards. Tackled by FS Trevon Pence.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:54	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	26 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 0 yards. Tackled by DE Nick Concepcion.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:30	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	26 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 4 yards. Tackled by ILB Weston Shackelford.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	9:5	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	6	</td>	<td>	22 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for TE Patty Murray.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:57	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	6	</td>	<td>	22 BAMA	</td>
+	<td>	Field Goal	</td>	<td>	K Saeed Smith's 40 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	7	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:52	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 55 yards. Fielded at the 10 yardline by WR Paul CanhaWR Paul Canha returns the ball 27 yards. Tackled by OLB Albert Falu.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:44	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	37 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 15 yards. Tackled by DE Ian Merritt.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:25	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	48 TENN	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 5 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:7	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	5	</td>	<td>	43 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett <span class="interception">INTERCEPTED</span> by CB Francis Horst returned to 0 yards from the LOS. intended for WR Paul Canha.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	8:00	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	43 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 6 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:42	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	4	</td>	<td>	49 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage is sacked by OLB Gio Thayer and DT Marcus Sirles for -14 yards. .	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:35	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	18	</td>	<td>	35 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Thrown Away.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:33	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	18	</td>	<td>	35 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 58 yards. WR Paul Canha calls for a fair catch.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:19	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	7 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Ben Williams.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	7:14	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	7 BAMA	</td>
+	<td>	Run	</td>	<td>	FB Jordan Durr carries for 3 yards. Tackled by DT Jason Marte.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	6:51	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	7	</td>	<td>	10 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 1 yard. Tackled by DT Jason Marte.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	6:25	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	11 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 53 yards. WR Alex Henderson returns the ball 8 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	6:17	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 6 yards. Tackled by OLB Gio Thayer.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:51	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	4	</td>	<td>	50	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 1 yard. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:30	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	3	</td>	<td>	49 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Kendrick Mateo for 6 yards. Tackled by FS Trevon Pence. <span class="penalty">PENALTY</span>: False Start WR Matt Siri	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:24	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	8	</td>	<td>	46 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 4 yards. Tackled by OLB Gio Thayer.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	5:00	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	4	</td>	<td>	50	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 55 yards. Touchback.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:52	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Ben Williams.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:47	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Cam Mills.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:42	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to RB Chris Williams for 4 yards. Tackled by SS Zac Hill.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:20	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	24 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 66 yards. WR Alex Henderson returns the ball 14 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:12	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	24 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Thrown Away.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	4:5	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	24 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 5 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	3:46	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	5	</td>	<td>	29 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Patty Murray for 6 yards. Tackled by CB Matt Miller.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	3:26	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	35 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for WR Alex Henderson.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	3:24	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	35 TENN	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 4 yards. Tackled by ILB Emanuel Rivera.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:57	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	6	</td>	<td>	39 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 3 yards. Tackled by DE Nick Concepcion and ILB Emanuel Rivera.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:35	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	3	</td>	<td>	42 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 63 yards. Touchback.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:23	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Cam Mills.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	2:16	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	20 BAMA	</td>
+	<td>	Run	</td>	<td>	FB Jordan Durr carries for 7 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	1:56	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	3	</td>	<td>	27 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -1 yard. Tackled by DE Max Bradberry.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	1:29	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	4	</td>	<td>	26 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 67 yards. RB Aldrick Ynoa returns the ball 9 yards. Tackled by CB Timmy Madero.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	1:21	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	16 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 7 yards.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:57	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	3	</td>	<td>	23 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Kendrick Mateo for 5 yards. Tackled by CB Stephen Mahtook.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:40	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	28 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -1 yard. Tackled by DE Nick Concepcion and ILB Weston Shackelford.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	3	</td>	<td>	0:14	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	11	</td>	<td>	27 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 5 yards. Tackled by OLB Gio Thayer.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	15:00	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	6	</td>	<td>	32 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Patty Murray for 6 yards. Tackled by CB Stephen Mahtook.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	14:39	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	38 TENN	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 4 yards. Tackled by DT Marcus Sirles.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	14:13	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	6	</td>	<td>	42 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for -4 yards. Tackled by DT Marcus Sirles.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:49	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	10	</td>	<td>	38 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for TE Patty Murray.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:46	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	10	</td>	<td>	38 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 59 yards. WR Paul Canha returns the ball 10 yards. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:34	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	13 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for TE David Dennard.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:29	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	13 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for TE David Dennard. <span class="penalty">PENALTY</span>: False Start OT Sean Rogers	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	13:22	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	15	</td>	<td>	8 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for -1 yard. Ran out of bounds.	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:59	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	16	</td>	<td>	7 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett <span class="interception">INTERCEPTED</span> by FS Joe Solder returned to -7 yards from the LOS. intended for TE David Dennard. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	10	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:56	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 BAMA	</td>
+	<td>	Extra Point	</td>	<td>	K Saeed Smith's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	16	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:56	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 61 yards. Fielded at the 4 yardline by WR Paul CanhaWR Paul Canha returns the ball 23 yards. Ran out of bounds.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:44	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	27 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 3 yards. Tackled by DE Ian Merritt.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	12:16	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	7	</td>	<td>	30 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Ryan Dickey for 12 yards. Tackled by CB Francis Horst.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:59	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Paul Canha.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:51	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett scrambles for 4 yards. Tackled by FS Joe Solder.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:47	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	6	</td>	<td>	46 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for WR Ben Williams.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:42	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	46 BAMA	</td>
+	<td>	Punt	</td>	<td>	P Jaime DeSclafani punts for 59 yards. Touchback.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:31	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	20 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Alex Henderson for 12 yards. Tackled by CB Dashaun Ceciliani.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	11:11	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	32 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to WR Alex Henderson for 40 yards. Tackled by FS Trevon Pence.	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:51	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	28 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 28 yards. <span class="touchdown">TOUCHDOWN</span>!	</td>	<td>	17	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:34	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	3 BAMA	</td>
+	<td>	Extra Point	</td>	<td>	K Saeed Smith's extra point attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	23	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:34	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 69 yards. Fielded 4 yards. deep in the endzone by CB Dashaun Ceciliani Touchback.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:34	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	25 BAMA	</td>
+	<td>	Run	</td>	<td>	FB Jordan Durr carries for 0 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	10:11	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	25 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 4 yards. Tackled by FS Joe Solder.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:49	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	6	</td>	<td>	29 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to TE David Dennard for 8 yards. Tackled by CB Francis Horst.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:30	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	37 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Chris Williams. <span class="penalty">PENALTY</span>: Defensive Holding ILB JT Adams	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:11	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Thrown Away.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:7	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for RB Cam Mills.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	9:4	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 10 yards. Tackled by DE Max Bradberry.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	8:47	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	48 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 3 yards. Tackled by SS Zac Hill.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	8:21	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	7	</td>	<td>	45 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 8 yards. Ran out of bounds. <span class="penalty">PENALTY</span>: Neutral Zone Infraction DE Ian Merritt	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:58	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	2	</td>	<td>	40 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Intended for TE David Dennard.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:54	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	2	</td>	<td>	40 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 2 yards. Tackled by DE Max Bradberry.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:36	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	38 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 7 yards. Tackled by OLB Albert Rosales.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	7:9	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	3	</td>	<td>	31 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 13 yards. Tackled by DE Ian Merritt. <span class="penalty">PENALTY</span>: Neutral Zone Infraction DE Ian Merritt	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:51	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	5	</td>	<td>	26 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -4 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:31	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	9	</td>	<td>	30 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -2 yards. Tackled by DT Steve Markkanen.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	6:7	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	11	</td>	<td>	32 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to WR Ben Williams for 5 yards. Tackled by CB Eric Harlow.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:45	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	6	</td>	<td>	27 TENN	</td>
+	<td>	Field Goal	</td>	<td>	K John Gardner's 45 yard field goal attempt is no good.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:40	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	27 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for WR Matt Siri.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:35	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	10	</td>	<td>	27 TENN	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 2 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:17	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	8	</td>	<td>	29 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage incomplete. Intended for RB Aldrick Ynoa.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:15	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	8	</td>	<td>	29 TENN	</td>
+	<td>	Punt	</td>	<td>	P Marcus Jackson punts for 38 yards. WR Paul Canha returns the ball 20 yards. Tackled by DE Matthew Cano.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:3	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	47 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett incomplete. Thrown Away.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	5:1	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	10	</td>	<td>	47 TENN	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for 13 yards. Tackled by OLB Montrezl Link.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	4:44	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	34 TENN	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for 7 yards. Tackled by DE Ian Merritt.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	4:20	</td>	<td>	BAMA	</td>	<td>	2	</td>	<td>	3	</td>	<td>	27 TENN	</td>
+	<td>	Run	</td>	<td>	RB Cam Mills carries for -4 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	4:2	</td>	<td>	BAMA	</td>	<td>	3	</td>	<td>	7	</td>	<td>	31 TENN	</td>
+	<td>	Pass	</td>	<td>	QB Connor Bennett complete to RB Cam Mills for 3 yards. Tackled by CB Zach Cabinda.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:36	</td>	<td>	BAMA	</td>	<td>	4	</td>	<td>	4	</td>	<td>	28 TENN	</td>
+	<td>	Field Goal	</td>	<td>	K John Gardner's 46 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	24	</td>	<td>	9	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:30	</td>	<td>	BAMA	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 BAMA	</td>
+	<td>	Kickoff	</td>	<td>	K John Gardner kicks for 55 yards. Fielded at the 10 yardline by RB Aldrick YnoaRB Aldrick Ynoa returns the ball 34 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:17	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	44 TENN	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 14 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	3:00	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	42 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for 5 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	2:37	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	5	</td>	<td>	37 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 0 yards. Tackled by ILB Emanuel Rivera.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	2:12	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	5	</td>	<td>	37 BAMA	</td>
+	<td>	Pass	</td>	<td>	QB Brandon Savage complete to TE Patty Murray for 26 yards. Tackled by SS Johnny Wright.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	1:49	</td>	<td>	TENN	</td>	<td>	1	</td>	<td>	10	</td>	<td>	11 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 7 yards. Ran out of bounds.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	1:36	</td>	<td>	TENN	</td>	<td>	2	</td>	<td>	3	</td>	<td>	4 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Joe Williams carries for -5 yards. Tackled by ILB Weston Shackelford.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	1:1	</td>	<td>	TENN	</td>	<td>	3	</td>	<td>	8	</td>	<td>	9 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Aldrick Ynoa carries for 1 yard. Tackled by CB Timmy Madero.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:29	</td>	<td>	TENN	</td>	<td>	4	</td>	<td>	7	</td>	<td>	8 BAMA	</td>
+	<td>	Field Goal	</td>	<td>	K Saeed Smith's 26 yard field goal attempt is <span class="touchdown">GOOD</span>.	</td>	<td>	24	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:23	</td>	<td>	TENN	</td>	<td>	N/A	</td>	<td>	N/A	</td>	<td>	35 TENN	</td>
+	<td>	Kickoff	</td>	<td>	K Tre Trinnaman kicks for 57 yards. Fielded at the 8 yardline by CB Dashaun CecilianiCB Dashaun Ceciliani returns the ball 23 yards. Tackled by WR Hayes Edwards.	</td>	<td>	27	</td>	<td>	12	</td>	</tr>		
+<tr>	<td>	4	</td>	<td>	0:12	</td>	<td>	BAMA	</td>	<td>	1	</td>	<td>	10	</td>	<td>	31 BAMA	</td>
+	<td>	Run	</td>	<td>	RB Chris Williams carries for -3 yards. Tackled by DT Steve Markkanen and OLB Albert Rosales.	</td>	<td>	27	</td>	<td>	12	</td>	</tr>		
+</tbody>	</table>																																
+																																	
+<div><p style="text-align:center;font-size:24pt;margin-bottom:25px">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by <strong>Zaxby's</strong>, the official fried chicken partner of college football.</div></p>																																	
