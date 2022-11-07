@@ -1,0 +1,405 @@
+<head><title>Cleveland vs. Cincinnati Bengals</title></head><link rel="stylesheet" href="https://ezaco.github.io/SimFBACommentary/css/gamestyles.css">
+<div class="welcome"> Welcome everybody to FirstEnergy Stadium here in Cleveland, Ohio.<br />
+It's great matchup today between the <strong> Cleveland Browns  </strong> and the <strong> Cincinnati Bengals  </strong>.<br />
+We're getting under way here now, let's take it down to the field!<br />
+Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cleveland.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cincinnati Bengals.png"></div>
+<table style="margin:auto;width:90%;margin-bottom:75px"><thead>
+<tr><th>Quarter</th><th>Time Remaining</th><th>Possession</th><th>Down</th><th>Distance</th><th>Line Of Scrimmage</th><th>Type of Play</th><th>Result</th><th>CLE Score</th><th>CIN Score</th></tr></thead><tbody>
+<tr><td>1</td><td>15:00</td><td>CLE</td><td>N/A</td><td>N/A</td><td>35 CLE</td>
+<td>Kickoff</td><td>K John Raigoza kicks for 63 yards. Fielded at the 2 yardline by WR Antonio CampoverdeWR Antonio Campoverde returns the ball 20 yards. Ran out of bounds.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>14:46</td><td>CIN</td><td>1</td><td>10</td><td>22 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 1 yard. Tackled by CB Brice Torres.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>14:7</td><td>CIN</td><td>2</td><td>9</td><td>23 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to TE Larry Watts for 5 yards. Tackled by ILB Louis Dell.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>13:29</td><td>CIN</td><td>3</td><td>4</td><td>28 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to TE Larry Watts for 22 yards. Tackled by FS Robert Davis.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>13:6</td><td>CIN</td><td>1</td><td>10</td><td>50</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for -5 yards. Tackled by ILB Louis Dell.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>12:27</td><td>CIN</td><td>2</td><td>15</td><td>45 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 7 yards. Tackled by SS James Hayes.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>11:44</td><td>CIN</td><td>3</td><td>8</td><td>48 CLE</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for RB Charles Bieber.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>11:27</td><td>CIN</td><td>4</td><td>8</td><td>48 CLE</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 55 yards. Touchback.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>11:17</td><td>CLE</td><td>1</td><td>10</td><td>20 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 7 yards. Tackled by OLB Young Lai.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>10:38</td><td>CLE</td><td>2</td><td>3</td><td>27 CLE</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for WR Christopher Mosher.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>10:16</td><td>CLE</td><td>3</td><td>3</td><td>27 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for -2 yards. Tackled by ILB Russell Craw.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>9:34</td><td>CLE</td><td>4</td><td>5</td><td>25 CLE</td>
+<td>Punt</td><td>P Patrick Brown punts for 57 yards. WR Antonio Campoverde returns the ball 14 yards. Tackled by OLB John Duffy.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>9:25</td><td>CIN</td><td>1</td><td>10</td><td>32 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 6 yards. Tackled by SS James Hayes.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>8:45</td><td>CIN</td><td>2</td><td>4</td><td>38 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Anthony Finch.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>8:23</td><td>CIN</td><td>3</td><td>4</td><td>38 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to TE Larry Watts for 5 yards. Tackled by CB Fernando Barrera.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>8:2</td><td>CIN</td><td>1</td><td>10</td><td>43 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 3 yards. Ran out of bounds.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>7:29</td><td>CIN</td><td>2</td><td>7</td><td>46 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 2 yards. Tackled by FS Robert Davis.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>6:48</td><td>CIN</td><td>3</td><td>5</td><td>48 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Antonio Campoverde.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>6:31</td><td>CIN</td><td>4</td><td>5</td><td>48 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 52 yards. Touchback.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>6:17</td><td>CLE</td><td>1</td><td>10</td><td>20 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to TE Mark Lysek for 9 yards. Tackled by ILB Russell Craw.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>5:35</td><td>CLE</td><td>2</td><td>1</td><td>29 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 4 yards. Tackled by SS Brian Johnson.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>5:16</td><td>CLE</td><td>1</td><td>10</td><td>33 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by DT Thomas Bowen.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>4:37</td><td>CLE</td><td>2</td><td>4</td><td>39 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to RB Juan Mora for 12 yards. Tackled by OLB Kevin Campbell.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>4:16</td><td>CLE</td><td>1</td><td>10</td><td>49 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for WR George Lovejoy.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>3:56</td><td>CLE</td><td>2</td><td>10</td><td>49 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 7 yards. Ran out of bounds.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>3:23</td><td>CLE</td><td>3</td><td>3</td><td>42 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 4 yards. Tackled by DE David Eck.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>3:1</td><td>CLE</td><td>1</td><td>10</td><td>38 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 10 yards. Tackled by DT Thomas Bowen.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>2:44</td><td>CLE</td><td>1</td><td>10</td><td>28 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for WR Christopher Mosher.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>2:26</td><td>CLE</td><td>2</td><td>10</td><td>28 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 8 yards. Tackled by OLB Young Lai.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>1:45</td><td>CLE</td><td>3</td><td>2</td><td>20 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Mosher for 2 yards. Tackled by CB Ralph Cornelius.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>1:26</td><td>CLE</td><td>1</td><td>10</td><td>18 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 7 yards. Tackled by DE Dustin Blackley.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>0:44</td><td>CLE</td><td>2</td><td>3</td><td>11 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 8 yards. Ran out of bounds.</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>0:26</td><td>CLE</td><td>1</td><td>3</td><td>3 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 3 yards. <span class="touchdown">TOUCHDOWN</span>!</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>0:7</td><td>CLE</td><td>N/A</td><td>N/A</td><td>3 CIN</td>
+<td>Extra Point</td><td>K John Raigoza's extra point attempt is <span class="touchdown">GOOD</span>.</td><td>6</td><td>0</td></tr>
+<tr><td>1</td><td>0:7</td><td>CLE</td><td>N/A</td><td>N/A</td><td>35 CLE</td>
+<td>Kickoff</td><td>K John Raigoza kicks for 65 yards. Fielded at the goalline by WR Antonio Campoverde Touchback.</td><td>7</td><td>0</td></tr>
+<tr><td>1</td><td>0:7</td><td>CIN</td><td>1</td><td>10</td><td>25 CIN</td>
+<td>Run</td><td>FB Jevoni Rosenberg carries for 5 yards. Ran out of bounds.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>15:00</td><td>CIN</td><td>2</td><td>5</td><td>30 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for -2 yards. Tackled by ILB Louis Dell.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>14:17</td><td>CIN</td><td>3</td><td>7</td><td>28 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Antonio Campoverde.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>14:00</td><td>CIN</td><td>4</td><td>7</td><td>28 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 43 yards. WR Christopher Cresswell returns the ball 14 yards. Ran out of bounds.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>13:50</td><td>CLE</td><td>1</td><td>10</td><td>43 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 0 yards. Tackled by CB Ralph Cornelius.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>13:13</td><td>CLE</td><td>2</td><td>10</td><td>43 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 4 yards. Ran out of bounds.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>12:45</td><td>CLE</td><td>3</td><td>6</td><td>47 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by DT Jason Britz.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>12:22</td><td>CLE</td><td>1</td><td>10</td><td>47 CIN</td>
+<td>Run</td><td>FB Saul Galvan carries for 10 yards. Ran out of bounds.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>12:2</td><td>CLE</td><td>1</td><td>10</td><td>37 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by OLB Young Lai.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>11:20</td><td>CLE</td><td>2</td><td>4</td><td>31 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Mosher for 3 yards. Tackled by FS John Eley.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>10:40</td><td>CLE</td><td>3</td><td>1</td><td>28 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by SS Brian Johnson.</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>10:20</td><td>CLE</td><td>1</td><td>10</td><td>22 CIN</td>
+<td>Run</td><td>FB Saul Galvan carries for 22 yards. <span class="touchdown">TOUCHDOWN</span>!</td><td>7</td><td>0</td></tr>
+<tr><td>2</td><td>10:00</td><td>CLE</td><td>N/A</td><td>N/A</td><td>3 CIN</td>
+<td>Extra Point</td><td>K John Raigoza's extra point attempt is <span class="touchdown">GOOD</span>.</td><td>13</td><td>0</td></tr>
+<tr><td>2</td><td>10:00</td><td>CLE</td><td>N/A</td><td>N/A</td><td>35 CLE</td>
+<td>Kickoff</td><td>K John Raigoza kicks for 55 yards. Fielded at the 10 yardline by RB Charles BieberRB Charles Bieber returns the ball 27 yards. Ran out of bounds.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>9:52</td><td>CIN</td><td>1</td><td>10</td><td>37 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for TE Larry Watts.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>9:32</td><td>CIN</td><td>2</td><td>10</td><td>37 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 5 yards. Tackled by DE David Sparacino.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>8:50</td><td>CIN</td><td>3</td><td>5</td><td>42 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Thrown Away.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>8:28</td><td>CIN</td><td>4</td><td>5</td><td>42 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 48 yards. WR Christopher Cresswell returns the ball 11 yards. Tackled by CB Ralph Cornelius.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>8:18</td><td>CLE</td><td>1</td><td>10</td><td>21 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 14 yards. Ran out of bounds.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>7:59</td><td>CLE</td><td>1</td><td>10</td><td>35 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 3 yards. Tackled by DE David Eck.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>7:20</td><td>CLE</td><td>2</td><td>7</td><td>38 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 4 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>6:37</td><td>CLE</td><td>3</td><td>3</td><td>42 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 2 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>6:00</td><td>CLE</td><td>4</td><td>1</td><td>44 CLE</td>
+<td>Punt</td><td>P Patrick Brown punts for 46 yards. RB Charles Bieber returns the ball 19 yards. Tackled by CB Luis Chavez.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>5:48</td><td>CIN</td><td>1</td><td>10</td><td>29 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Antonio Campoverde for 8 yards. Tackled by SS James Hayes.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>5:6</td><td>CIN</td><td>2</td><td>2</td><td>37 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Anthony Finch.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>4:48</td><td>CIN</td><td>3</td><td>2</td><td>37 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 56 yards. Tackled by SS James Hayes.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>4:30</td><td>CIN</td><td>1</td><td>7</td><td>7 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to TE Larry Watts for 6 yards. Tackled by CB Fernando Barrera.</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>3:49</td><td>CIN</td><td>2</td><td>1</td><td>1 CLE</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 1 yard. <span class="touchdown">TOUCHDOWN</span>!</td><td>14</td><td>0</td></tr>
+<tr><td>2</td><td>3:30</td><td>CIN</td><td>N/A</td><td>N/A</td><td>3 CLE</td>
+<td>Extra Point</td><td>K Jameill Lopez's extra point attempt is <span class="touchdown">GOOD</span>.</td><td>14</td><td>6</td></tr>
+<tr><td>2</td><td>3:30</td><td>CIN</td><td>N/A</td><td>N/A</td><td>35 CIN</td>
+<td>Kickoff</td><td>K Jameill Lopez kicks for 55 yards. Fielded at the 10 yardline by RB Mark DrewRB Mark Drew returns the ball 24 yards. Tackled by CB Milo Smith.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>3:20</td><td>CLE</td><td>1</td><td>10</td><td>34 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 5 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>2:48</td><td>CLE</td><td>2</td><td>5</td><td>39 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Mosher for 4 yards. Tackled by FS John Eley. <span class="penalty">PENALTY</span>: Defensive Holding DE David Eck</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>2:27</td><td>CLE</td><td>1</td><td>10</td><td>44 CLE</td>
+<td>Run</td><td>RB David Avila carries for 1 yard. Tackled by DT Thomas Bowen.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>1:46</td><td>CLE</td><td>2</td><td>9</td><td>45 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 0 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>1:4</td><td>CLE</td><td>3</td><td>9</td><td>45 CLE</td>
+<td>Pass</td><td>QB James Rivera scrambles for 5 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>0:46</td><td>CLE</td><td>4</td><td>4</td><td>50</td>
+<td>Punt</td><td>P Patrick Brown punts for 46 yards. WR Antonio Campoverde returns the ball 15 yards. Tackled by FS Peter Barrera.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>0:33</td><td>CIN</td><td>1</td><td>10</td><td>19 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for TE Larry Watts.</td><td>14</td><td>7</td></tr>
+<tr><td>2</td><td>0:26</td><td>CIN</td><td>2</td><td>10</td><td>19 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for -2 yards. Tackled by ILB Louis Dell.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>15:00</td><td>CIN</td><td>N/A</td><td>N/A</td><td>35 CIN</td>
+<td>Kickoff</td><td>K Jameill Lopez kicks for 55 yards. Fielded at the 10 yardline by RB Mark DrewRB Mark Drew returns the ball 26 yards. Tackled by FS Andrzej Parker.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>14:52</td><td>CLE</td><td>1</td><td>10</td><td>36 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 8 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>14:35</td><td>CLE</td><td>2</td><td>2</td><td>44 CLE</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for RB Juan Mora.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>14:28</td><td>CLE</td><td>3</td><td>2</td><td>44 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to RB David Avila for 1 yard. Tackled by FS John Eley.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>13:54</td><td>CLE</td><td>4</td><td>1</td><td>45 CLE</td>
+<td>Punt</td><td>P Patrick Brown punts for 63 yards. Touchback.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>13:40</td><td>CIN</td><td>1</td><td>10</td><td>20 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 5 yards. Tackled by CB Kolton Hayes.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>13:7</td><td>CIN</td><td>2</td><td>5</td><td>25 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 2 yards. Tackled by FS Robert Davis.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>12:35</td><td>CIN</td><td>3</td><td>3</td><td>27 CIN</td>
+<td>Pass</td><td>QB Jeremiah West is sacked by DE Larry Buroker for -7 yards. .</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>12:32</td><td>CIN</td><td>4</td><td>10</td><td>20 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 47 yards. WR Christopher Cresswell returns the ball 20 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>12:24</td><td>CLE</td><td>1</td><td>10</td><td>47 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 12 yards. Tackled by SS Brian Johnson.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>12:2</td><td>CLE</td><td>1</td><td>10</td><td>35 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 1 yard. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>11:44</td><td>CLE</td><td>2</td><td>9</td><td>34 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for WR Christopher Mosher.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>11:38</td><td>CLE</td><td>3</td><td>9</td><td>34 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for TE Mark Lysek.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>11:31</td><td>CLE</td><td>4</td><td>9</td><td>34 CIN</td>
+<td>Punt</td><td>P Patrick Brown punts for 59 yards. Touchback.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>11:21</td><td>CIN</td><td>1</td><td>10</td><td>20 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 9 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>11:4</td><td>CIN</td><td>2</td><td>1</td><td>29 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Antonio Campoverde for 4 yards. Tackled by SS James Hayes.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>10:45</td><td>CIN</td><td>1</td><td>10</td><td>33 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 4 yards. Tackled by OLB Larry Bushong.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>10:15</td><td>CIN</td><td>2</td><td>6</td><td>37 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 15 yards. Tackled by ILB Louis Dell.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>9:55</td><td>CIN</td><td>1</td><td>10</td><td>48 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Antonio Campoverde for 1 yard. Tackled by FS Robert Davis.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>9:22</td><td>CIN</td><td>2</td><td>9</td><td>47 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 12 yards. Tackled by ILB Louis Dell.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>9:5</td><td>CIN</td><td>1</td><td>10</td><td>35 CLE</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for RB Ronnie Jefferson.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>9:1</td><td>CIN</td><td>2</td><td>10</td><td>35 CLE</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 2 yards. Tackled by DE David Sparacino.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>8:26</td><td>CIN</td><td>3</td><td>8</td><td>33 CLE</td>
+<td>Run</td><td>RB Charles Bieber carries for 1 yard. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>8:8</td><td>CIN</td><td>4</td><td>7</td><td>32 CLE</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 67 yards. Touchback.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>7:55</td><td>CLE</td><td>1</td><td>10</td><td>20 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to TE Mark Lysek for 10 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>7:36</td><td>CLE</td><td>1</td><td>10</td><td>30 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 10 yards. Tackled by CB Ben Andrews.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>7:15</td><td>CLE</td><td>1</td><td>10</td><td>40 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 8 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>6:53</td><td>CLE</td><td>2</td><td>2</td><td>48 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 5 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>6:31</td><td>CLE</td><td>1</td><td>10</td><td>47 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to RB Juan Mora for 0 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>5:58</td><td>CLE</td><td>2</td><td>10</td><td>47 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 0 yards. Tackled by SS Brian Johnson.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>5:26</td><td>CLE</td><td>3</td><td>10</td><td>47 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR George Lovejoy for 2 yards. Tackled by CB Milo Smith.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>4:55</td><td>CLE</td><td>4</td><td>8</td><td>45 CIN</td>
+<td>Punt</td><td>P Patrick Brown punts for 46 yards. Touchback.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>4:45</td><td>CIN</td><td>1</td><td>10</td><td>20 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Thrown Away.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>4:37</td><td>CIN</td><td>2</td><td>10</td><td>20 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 13 yards. Tackled by DE Larry Buroker.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>4:18</td><td>CIN</td><td>1</td><td>10</td><td>33 CIN</td>
+<td>Run</td><td>FB Jevoni Rosenberg carries for -8 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>3:57</td><td>CIN</td><td>2</td><td>18</td><td>25 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 8 yards. Tackled by FS Robert Davis.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>3:21</td><td>CIN</td><td>3</td><td>10</td><td>33 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Antonio Campoverde.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>3:18</td><td>CIN</td><td>4</td><td>10</td><td>33 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 33 yards. WR Christopher Cresswell returns the ball 7 yards. Tackled by FS Ryan Jelinski.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>3:5</td><td>CLE</td><td>1</td><td>10</td><td>41 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for -2 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>2:32</td><td>CLE</td><td>2</td><td>12</td><td>39 CLE</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for TE Mark Lysek.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>2:29</td><td>CLE</td><td>3</td><td>12</td><td>39 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Mosher for 32 yards. Tackled by CB Jason Earley.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>2:11</td><td>CLE</td><td>1</td><td>10</td><td>29 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Cresswell for 6 yards. Tackled by FS John Eley.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>1:38</td><td>CLE</td><td>2</td><td>4</td><td>23 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by ILB Russell Craw.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>1:16</td><td>CLE</td><td>1</td><td>10</td><td>17 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for -1 yard. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>0:56</td><td>CLE</td><td>2</td><td>11</td><td>18 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for -2 yards. Ran out of bounds.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>0:35</td><td>CLE</td><td>3</td><td>13</td><td>20 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for RB Juan Mora.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>0:33</td><td>CLE</td><td>4</td><td>13</td><td>20 CIN</td>
+<td>Field Goal</td><td>K John Raigoza's 38 yard field goal attempt is <span class="touchdown">GOOD</span>.</td><td>14</td><td>7</td></tr>
+<tr><td>3</td><td>0:27</td><td>CLE</td><td>N/A</td><td>N/A</td><td>35 CLE</td>
+<td>Kickoff</td><td>K John Raigoza kicks for 55 yards. Fielded at the 10 yardline by WR Antonio CampoverdeWR Antonio Campoverde returns the ball 25 yards. Tackled by DT Duncan Terrero.</td><td>17</td><td>7</td></tr>
+<tr><td>3</td><td>0:13</td><td>CIN</td><td>1</td><td>10</td><td>35 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 8 yards. Tackled by SS James Hayes. <span class="penalty">PENALTY</span>: Offensive Pass Interference RB Ronnie Jefferson</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>15:00</td><td>CIN</td><td>1</td><td>20</td><td>25 CIN</td>
+<td>Pass</td><td>QB Jeremiah West incomplete. Intended for WR Anthony Finch.</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>14:55</td><td>CIN</td><td>2</td><td>20</td><td>25 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 3 yards. Tackled by ILB Harold Forst.</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>14:21</td><td>CIN</td><td>3</td><td>17</td><td>28 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Antonio Campoverde for 51 yards. Tackled by CB Brice Torres.</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>13:58</td><td>CIN</td><td>1</td><td>10</td><td>21 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 11 yards. Tackled by CB Brice Torres.</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>13:38</td><td>CIN</td><td>1</td><td>10</td><td>10 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 10 yards. <span class="touchdown">TOUCHDOWN</span>!</td><td>17</td><td>7</td></tr>
+<tr><td>4</td><td>13:18</td><td>CIN</td><td>N/A</td><td>N/A</td><td>3 CLE</td>
+<td>Extra Point</td><td>K Jameill Lopez's extra point attempt is <span class="touchdown">GOOD</span>.</td><td>17</td><td>13</td></tr>
+<tr><td>4</td><td>13:18</td><td>CIN</td><td>N/A</td><td>N/A</td><td>35 CIN</td>
+<td>Kickoff</td><td>K Jameill Lopez kicks for 61 yards. Fielded at the 4 yardline by RB Mark DrewRB Mark Drew returns the ball 30 yards. Tackled by CB Ben Andrews.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>13:6</td><td>CLE</td><td>1</td><td>10</td><td>34 CLE</td>
+<td>Run</td><td>FB Saul Galvan carries for 3 yards. Tackled by OLB Young Lai.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>12:31</td><td>CLE</td><td>2</td><td>7</td><td>37 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by FS John Eley.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>12:00</td><td>CLE</td><td>3</td><td>1</td><td>43 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to TE Mark Lysek for 9 yards. Tackled by CB Ben Andrews.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:43</td><td>CLE</td><td>1</td><td>10</td><td>48 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Thrown Away.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:41</td><td>CLE</td><td>2</td><td>10</td><td>48 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for TE Mark Lysek.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:37</td><td>CLE</td><td>3</td><td>10</td><td>48 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for WR George Lovejoy.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:31</td><td>CLE</td><td>4</td><td>10</td><td>48 CIN</td>
+<td>Punt</td><td>P Patrick Brown punts for 50 yards. Touchback.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:23</td><td>CIN</td><td>1</td><td>10</td><td>20 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 3 yards. Ran out of bounds.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>11:00</td><td>CIN</td><td>2</td><td>7</td><td>23 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 4 yards. Tackled by ILB Harold Forst.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>10:25</td><td>CIN</td><td>3</td><td>3</td><td>27 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 2 yards. Tackled by ILB Harold Forst.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>9:50</td><td>CIN</td><td>4</td><td>1</td><td>29 CIN</td>
+<td>Punt</td><td>P Manuel Bonilla punts for 51 yards. WR Christopher Cresswell returns the ball 14 yards. Ran out of bounds.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>9:40</td><td>CLE</td><td>1</td><td>10</td><td>34 CLE</td>
+<td>Run</td><td>RB Juan Mora carries for 6 yards. Tackled by ILB Russell Craw.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>9:7</td><td>CLE</td><td>2</td><td>4</td><td>40 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to TE Mark Lysek for 14 yards. Tackled by CB Milo Smith.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>8:48</td><td>CLE</td><td>1</td><td>10</td><td>46 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 0 yards. Ran out of bounds.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>8:26</td><td>CLE</td><td>2</td><td>10</td><td>46 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 8 yards. Ran out of bounds.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>8:4</td><td>CLE</td><td>3</td><td>2</td><td>38 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 4 yards. Ran out of bounds.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>7:43</td><td>CLE</td><td>1</td><td>10</td><td>34 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 4 yards. Tackled by DE Dustin Blackley.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>7:8</td><td>CLE</td><td>2</td><td>6</td><td>30 CIN</td>
+<td>Run</td><td>RB Juan Mora carries for 2 yards. Tackled by ILB Russell Craw.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>6:36</td><td>CLE</td><td>3</td><td>4</td><td>28 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Cresswell for 0 yards. Tackled by FS John Eley.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>6:00</td><td>CLE</td><td>4</td><td>4</td><td>28 CIN</td>
+<td>Field Goal</td><td>K John Raigoza's 46 yard field goal attempt is no good.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>5:54</td><td>CIN</td><td>1</td><td>10</td><td>28 CIN</td>
+<td>Run</td><td>FB Jevoni Rosenberg carries for -1 yard. Tackled by OLB Larry Bushong.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>5:18</td><td>CIN</td><td>2</td><td>11</td><td>27 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 10 yards. Tackled by FS Robert Davis.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>4:46</td><td>CIN</td><td>3</td><td>1</td><td>37 CIN</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 3 yards. Tackled by FS Robert Davis.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>4:26</td><td>CIN</td><td>1</td><td>10</td><td>40 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 7 yards. Tackled by DT Richard Smith.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>3:54</td><td>CIN</td><td>2</td><td>3</td><td>47 CIN</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 3 yards. Tackled by DE David Sparacino.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>3:31</td><td>CIN</td><td>1</td><td>10</td><td>50</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 3 yards. Tackled by CB Fernando Barrera.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>2:58</td><td>CIN</td><td>2</td><td>7</td><td>47 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Ronnie Jefferson for 7 yards. Tackled by SS James Hayes.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>2:35</td><td>CIN</td><td>1</td><td>10</td><td>40 CLE</td>
+<td>Run</td><td>RB Ronnie Jefferson carries for 7 yards. Tackled by ILB Harold Forst.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>1:59</td><td>CIN</td><td>2</td><td>3</td><td>33 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Anthony Finch for 6 yards. Tackled by CB Luis Chavez.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>1:37</td><td>CIN</td><td>1</td><td>10</td><td>27 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to WR Antonio Campoverde for 26 yards. Tackled by SS James Hayes.</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>1:17</td><td>CIN</td><td>1</td><td>1</td><td>1 CLE</td>
+<td>Pass</td><td>QB Jeremiah West complete to RB Charles Bieber for 1 yard. <span class="touchdown">TOUCHDOWN</span>!</td><td>17</td><td>14</td></tr>
+<tr><td>4</td><td>0:55</td><td>CIN</td><td>N/A</td><td>N/A</td><td>3 CLE</td>
+<td>Extra Point</td><td>K Jameill Lopez's extra point attempt is <span class="touchdown">GOOD</span>.</td><td>17</td><td>20</td></tr>
+<tr><td>4</td><td>0:55</td><td>CIN</td><td>N/A</td><td>N/A</td><td>35 CIN</td>
+<td>Kickoff</td><td>K Jameill Lopez kicks for 68 yards. Fielded 3 yards. deep in the endzone by RB Mark DrewRB Mark Drew returns the ball 35 yards. Tackled by CB Jason Earley.</td><td>17</td><td>21</td></tr>
+<tr><td>4</td><td>0:46</td><td>CLE</td><td>1</td><td>10</td><td>32 CLE</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Cresswell for 19 yards. Tackled by CB Ben Andrews. Fumbled. Recovered by TE Mark Lysek.</td><td>17</td><td>21</td></tr>
+<tr><td>4</td><td>0:24</td><td>CLE</td><td>1</td><td>10</td><td>49 CIN</td>
+<td>Pass</td><td>QB James Rivera incomplete. Intended for TE Mark Lysek. <span class="penalty">PENALTY</span>: Defensive Pass Interference SS Brian Johnson</td><td>17</td><td>21</td></tr>
+<tr><td>4</td><td>0:1</td><td>CLE</td><td>1</td><td>10</td><td>34 CIN</td>
+<td>Pass</td><td>QB James Rivera complete to WR Christopher Mosher for 3 yards. Tackled by CB Milo Smith.</td><td>17</td><td>21</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td></tr>
+</tbody></table>
+
+<div><p style="text-align:center;font-size:24pt;margin-bottom:25px">Thank you for watching this presentation of SimFBA Commentaries. Brought to you by <strong> Old Bay Seasoning</strong> - for over 75 years great on seafood... great on everything else!</div></p>
