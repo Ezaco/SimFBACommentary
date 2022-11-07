@@ -3,7 +3,7 @@
 It's great matchup today between the <strong> Cleveland Browns  </strong> and the <strong> Cincinnati Bengals  </strong>.<br />
 We're getting under way here now, let's take it down to the field!<br />
 Click here to <a href="javascript:history.back()">go back</a> at any time.</div>
-<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cleveland.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cincinnati Bengals.png"></div>
+<div class="team-logos"><img class="home-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cleveland Browns.png"> <img class="away-logo" src="https://ezaco.github.io/SimFBACommentary/images/Cincinnati Bengals.png"></div>
 <table style="margin:auto;width:90%;margin-bottom:75px"><thead>
 <tr><th>Quarter</th><th>Time Remaining</th><th>Possession</th><th>Down</th><th>Distance</th><th>Line Of Scrimmage</th><th>Type of Play</th><th>Result</th><th>CLE Score</th><th>CIN Score</th></tr></thead><tbody>
 <tr><td>1</td><td>15:00</td><td>CLE</td><td>N/A</td><td>N/A</td><td>35 CLE</td>
